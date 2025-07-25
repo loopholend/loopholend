@@ -21,7 +21,7 @@ I'm passionate about coding, open source, and creating innovative solutions.
 ## 🤝 Let's Connect
 
 - [GitHub](https://github.com/loopholend)
-- (Add your other links here: LinkedIn, Twitter, Email, etc.)
+- [Linkedin](https://www.linkedin.com/in/pranjal-pal-a87b6a283/)
 
 ---
 
