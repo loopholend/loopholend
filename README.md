@@ -1,53 +1,60 @@
-# 👋 Hi, I'm Pranjal Pal (aka loopholend)
+# 👋 Hi, I'm Pranjal Pal  
+Backend Developer • Problem Solver • CS Undergrad
 
-Welcome to my GitHub!  
-I'm a passionate developer and Computer Science undergrad who loves solving problems, building efficient systems, and contributing to open source.
+I enjoy building efficient systems, exploring backend architectures, and sharpening my problem-solving skills through competitive programming. My work focuses on writing clean code, understanding how things work under the hood, and constantly leveling up.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE student @ AITR, Indore (Batch 2027)
-- 💻 Backend Developer | Problem Solver | AI Enthusiast
-- 🧠 80+ LeetCode problems solved | 3x ⭐️⭐️⭐️⭐️⭐️ badges on HackerRank
-- 🔭 Always curious about scalable systems and developer tools
+- 🎓 B.Tech CSE @ AITR Indore (Batch 2027)  
+- 💻 Backend development enthusiast  
+- 🧠 Strong grip on Data Structures & Algorithms  
+- 🏆 80+ LeetCode problems solved  
+- ⭐ Multiple 5⭐ badges on HackerRank  
+- 🤖 Curious explorer of AI tools and developer ecosystems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `Java (Core + Advanced)` `C` `SQL`
+`C++` · `Java (Core + Advanced)` · `C` · `SQL`
 
-**Web:**  
-`HTML` `CSS` `JavaScript`
+**Web Basics:**  
+`HTML` · `CSS` · `JavaScript`
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `HackerRank` `LeetCode` `Codeforces` `CodeChef`
+`Git` · `GitHub` · `VS Code`  
+`HackerRank` · `LeetCode` · `CodeChef` · `Codeforces`
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projects Snapshot
 
-![loopholend's GitHub stats](https://github-readme-stats.vercel.app/api?username=loopholend&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopholend&layout=compact&theme=tokyonight)
+### 🔧 Mini Legal Platform (Minor Project)
+A platform that helps users understand case categories and access relevant legal details quickly.  
+**Tech Used:** Java, OOP, SQL
 
----
-
-## 🌱 Currently Exploring
-
-- ⚙️ Spring Boot & backend architecture
-- 🧩 Competitive Programming (CP)
-- 🤖 Integrating AI APIs in real-world apps
+### 🧮 Competitive Programming Repository
+A curated collection of optimized DSA solutions practiced across LeetCode, CodeChef, and Codeforces.
 
 ---
 
-## 📫 Connect with Me
+## 📚 Currently Exploring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pranjal-pal-a87b6a283/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/loopholend)
+- Spring Boot & backend architecture  
+- Database indexing + query optimization  
+- Integrating AI APIs in practical projects  
 
 ---
 
-_Thanks for stopping by! Drop a ⭐ on a project if you like it._
+## 🌐 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/loopholend/  
+**GitHub:** https://github.com/loopholend  
+
+---
+
+## ✨ Fun Zone
 
