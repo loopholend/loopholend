@@ -57,11 +57,10 @@ A curated collection of optimized DSA solutions practiced across LeetCode, CodeC
 ---
 
 ## ✨ Fun Zone
-while (alive) {
-learn();
-code();
-improve();
+
+```java
+while (true) {
+    learn();
+    build();
+    grow();
 }
-
-
----
