@@ -102,11 +102,15 @@ A collection of optimized DSA solutions practiced across coding platforms.
 
 ## 📊 GitHub Stats
 
-![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loopholend&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loopholend&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopholend&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loopholend&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=loopholend&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=loopholend&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
