@@ -16,17 +16,28 @@ I enjoy building efficient systems, exploring backend architectures, and sharpen
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages:**  
-`C++` · `Java (Core + Advanced)` · `C` · `SQL`
+## Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web Basics:**  
-`HTML` · `CSS` · `JavaScript`
+## Web Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Platforms:**  
-`Git` · `GitHub` · `VS Code`  
-`HackerRank` · `LeetCode` · `CodeChef` · `Codeforces`
+## Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ---
 
@@ -51,8 +62,9 @@ A curated collection of optimized DSA solutions practiced across LeetCode, CodeC
 
 ## 🌐 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/loopholend/  
-**GitHub:** https://github.com/loopholend  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal%20Pal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loopholend/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-loopholend-black?style=for-the-badge&logo=github)](https://github.com/loopholend)
 
 ---
 
