@@ -100,18 +100,6 @@ A collection of optimized DSA solutions practiced across coding platforms.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loopholend&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loopholend&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ✨ Fun Zone
 
 ```java
